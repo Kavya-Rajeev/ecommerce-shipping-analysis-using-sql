@@ -1,7 +1,8 @@
 # ecommerce-shipping-analysis-using-sql
 
 ## Project Overview
-This project involves performing data analysis using SQL on a sample of the E-commerce Shipping Data originally sourced from Kaggle. The dataset contains customer shipping records with attributes like - ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender
+This project involves performing data analysis using SQL on a sample of the E-commerce Shipping Data originally sourced from Kaggle. 
+The dataset contains customer shipping records with attributes like - ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender.
 
 ## Dataset
 Original dataset size: 10,999 rows, 12 columns
@@ -24,6 +25,7 @@ Dataset Source: Kaggle (EDA - E-commerce Shipping Data)
 
 ## Files Included
 <a href="https://github.com/Kavya-Rajeev/ecommerce-shipping-analysis-using-sql/blob/main/ecommerce%20shipping%20analysis.sql">ecommerce_analysis.sql</a> - SQL script with analysis queries
+
 <a href="https://github.com/Kavya-Rajeev/ecommerce-shipping-analysis-using-sql/blob/main/commerce%20shipping%20data-%20sample.csv">ecommerce_sample.csv</a> - Sample of the dataset used for testing
 
 ## Outcomes
