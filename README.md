@@ -4,7 +4,7 @@
 This project involves performing data analysis using SQL on a sample of the E-commerce Shipping Data originally sourced from Kaggle. 
 
 The dataset contains customer shipping records with attributes like - 
-ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender.
+ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender
 
 ## Dataset
 Original dataset size: 10,999 rows, 12 columns
