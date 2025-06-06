@@ -2,17 +2,23 @@
 
 ## Project Overview
 This project involves performing data analysis using SQL on a sample of the E-commerce Shipping Data originally sourced from Kaggle. 
+
 The dataset contains customer shipping records with attributes like - ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender.
 
 ## Dataset
 Original dataset size: 10,999 rows, 12 columns
+
 Working dataset sample: 1,000 rows (used for efficiency and faster processing)
+
 Format: CSV
+
 Imported into: MySQL Workbench
 
 ## Tools Used
 Database: MySQL
+
 Interface: MySQL Workbench
+
 Dataset Source: Kaggle (EDA - E-commerce Shipping Data)
 
 ## Key SQL Concepts Demonstrated
@@ -28,8 +34,13 @@ Dataset Source: Kaggle (EDA - E-commerce Shipping Data)
 
 <a href="https://github.com/Kavya-Rajeev/ecommerce-shipping-analysis-using-sql/blob/main/commerce%20shipping%20data-%20sample.csv">ecommerce_sample.csv</a> - Sample of the dataset used for testing
 
+<a href="https://github.com/Kavya-Rajeev/ecommerce-shipping-analysis-using-sql/blob/main/sql%20outputs%20screenshots.pdf">sql_outputs_screenshots.pdf</a> - PDF document of outputs of each query
+
 ## Outcomes
 Learned to query and analyze structured data using SQL.
+
 Practiced performance optimization using indexes.
+
 Built and tested SQL views and subqueries.
+
 Strengthened understanding of joins and aggregate analysis.
